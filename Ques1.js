@@ -11,7 +11,6 @@
 
 const a = [1, 2, 3];
 const b = [3, 2, 1];
-
 function checkTinyPairs(a, b, k) {
   let pairs = 0;
   let arr = [];
