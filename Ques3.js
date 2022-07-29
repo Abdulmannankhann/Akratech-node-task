@@ -10,5 +10,4 @@ function reverseWord(sentence) {
     })
     .join(" ");
 }
-
 console.log(reverseWord("Welcome to this Javascript Guide!"));
